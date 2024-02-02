@@ -1,0 +1,7 @@
+*.o
+client/build/
+serveur/cross/build/
+doc/
+client/Detection/
+client/Image/
+*.avi
